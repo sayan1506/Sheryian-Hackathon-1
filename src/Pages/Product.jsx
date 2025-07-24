@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import ProductCard from '../components/ProductCard';
-import { productList } from '../data/Products'; // Adjust path as needed
+import { productList } from '../Data/Products'; // Adjust path as needed
 import './ProductGrid.css';
 
 const ProductGrid = () => {
