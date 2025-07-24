@@ -12,7 +12,7 @@ export const productList = [
     id: 2,
     name: "Masala Chai",
     price: 25,
-    image: "https://images.unsplash.com/photo-1597318181409-cf64d0b3d814?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://spicestationsilverlake.com/wp-content/uploads/2023/03/An-Introduction-to-Masala-Chai-Indias-Spiced-Tea.jpg",
     category: "chai",
     description: "Strong tea infused with traditional spices."
   },
@@ -20,7 +20,7 @@ export const productList = [
     id: 3,
     name: "Adrak Chai",
     price: 25,
-    image: "https://images.unsplash.com/photo-1594631661960-206c2fccfc70?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://www.indianveggiedelight.com/wp-content/uploads/2023/06/ginger-tea.jpg",
     category: "chai",
     description: "Ginger tea for those kadak moods."
   },
@@ -28,7 +28,7 @@ export const productList = [
     id: 4,
     name: "Elaichi Chai",
     price: 30,
-    image: "https://images.unsplash.com/photo-1566313458259-1d19e7ee2e1a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://shiatea.com/cdn/shop/files/cardamomchai9.jpg?v=1706084387&width=1445",
     category: "chai",
     description: "Flavored with aromatic cardamom."
   },
@@ -44,7 +44,7 @@ export const productList = [
     id: 6,
     name: "Chocolate Chai",
     price: 35,
-    image: "https://images.unsplash.com/photo-1565299543923-37dd37887442?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://m.media-amazon.com/images/I/91v6f0g39iL.jpg",
     category: "chai",
     description: "A fusion of chai and rich cocoa."
   },
@@ -70,7 +70,7 @@ export const productList = [
     id: 9,
     name: "Hazelnut Coffee",
     price: 50,
-    image: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://monin.in/cdn/shop/files/HazelnutIcedLatte.jpg?v=1711447443",
     category: "coffee",
     description: "Nutty and bold hazelnut-flavored coffee."
   },
@@ -88,7 +88,7 @@ export const productList = [
     id: 11,
     name: "Rose Milk",
     price: 35,
-    image: "https://images.unsplash.com/photo-1553909489-cd47e0ef937f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIUN22qssohzbzEgbhQIcEf4sOQTwqBFFiGw&s",
     category: "drinks",
     description: "Cool, sweet, and floral drink — perfect for summers."
   },
@@ -140,7 +140,7 @@ export const productList = [
     id: 17,
     name: "Kulhad Vibes T-Shirt",
     price: 399,
-    image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS1kbS-LBPXMlk8W5VOnOH-NhU8oOUe8ydRQ&s",
     category: "merch",
     description: "Oversized tee with quirky 'Chai Sutta Adda' print."
   },
@@ -148,7 +148,7 @@ export const productList = [
     id: 18,
     name: "Chai Lover Mug",
     price: 249,
-    image: "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://www.giftjaipur.com/image/cache/catalog/2020/new-items/mug/chai-bina-chain-kaha-500x500.jpg",
     category: "merch",
     description: "Ceramic kulhad-style mug with brand print."
   },
@@ -156,7 +156,7 @@ export const productList = [
     id: 19,
     name: "Sutta Keychain",
     price: 99,
-    image: "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://m.media-amazon.com/images/I/61zFGcr4m+L._AC_UF1000,1000_QL80_.jpg",
     category: "merch",
     description: "Mini sutta-shaped keychain for true fans."
   },
@@ -164,7 +164,7 @@ export const productList = [
     id: 20,
     name: "Sticker Pack",
     price: 79,
-    image: "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    image: "https://m.media-amazon.com/images/I/71J5CzPx7WL.jpg",
     category: "merch",
     description: "Pack of 10 cool Chai Sutta Adda stickers."
   }

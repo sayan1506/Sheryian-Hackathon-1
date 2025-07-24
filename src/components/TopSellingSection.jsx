@@ -4,33 +4,37 @@ import './TopSellingSection.css';
 const TopSellingSection = () => {
   const topSellingItems = [
     {
-      id: 1,
-      name: "Masala Chai",
-      price: 25,
-      image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?w=400&h=300&fit=crop&auto=format",
-      description: "Traditional spiced tea blend"
-    },
+    id: 1,
+    name: "Kulhad Chai",
+    price: 20,
+    image: "https://images.unsplash.com/photo-1571934811356-5cc061b6821f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    category: "chai",
+    description: "Classic desi masala chai served in a hot kulhad."
+  },
+  {
+    id: 2,
+    name: "Masala Chai",
+    price: 25,
+    image: "https://spicestationsilverlake.com/wp-content/uploads/2023/03/An-Introduction-to-Masala-Chai-Indias-Spiced-Tea.jpg",
+    category: "chai",
+    description: "Strong tea infused with traditional spices."
+  },
     {
-      id: 2,
-      name: "Adrak Chai",
-      price: 30,
-      image: "https://images.unsplash.com/photo-1597318181409-cf64d0b3d814?w=400&h=300&fit=crop&auto=format",
-      description: "Refreshing ginger-infused chai"
-    },
+    id: 3,
+    name: "Filter Coffee",
+    price: 35,
+    image: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    category: "coffee",
+    description: "South Indian filter coffee brewed to perfection."
+  },
     {
-      id: 3,
-      name: "Elaichi Chai",
-      price: 35,
-      image: "https://images.unsplash.com/photo-1594631661960-206c2fccfc70?w=400&h=300&fit=crop&auto=format",
-      description: "Aromatic cardamom delight"
-    },
-    {
-      id: 4,
-      name: "Kulhad Chai",
-      price: 40,
-      image: "https://images.unsplash.com/photo-1566313458259-1d19e7ee2e1a?w=400&h=300&fit=crop&auto=format",
-      description: "Authentic clay cup experience"
-    }
+    id: 4,
+    name: "Mint Mojito",
+    price: 40,
+    image: "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    category: "drinks",
+    description: "Chilled soda with mint and lime freshness."
+  }
   ];
 
   const handleAddToCart = (item) => {
