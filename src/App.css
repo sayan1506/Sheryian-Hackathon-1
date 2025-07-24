@@ -1,0 +1,12 @@
+.nav{
+    padding: 2vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1{
+    font-size: 1.5vw;
+    line-height: 0.5vw;
+    text-align: center;
+}

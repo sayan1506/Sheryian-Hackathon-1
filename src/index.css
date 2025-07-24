@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rakkas&family=Poppins:wght@300;400;600&display=swap');
+
+/* Root Variables */
+:root {
+  /* Font Families */
+  --font-heading: 'Rakkas', serif;
+  --font-body: 'Poppins', sans-serif;
+
+  /* Color Palette */
+  --color-kulhad-brown: #7B3F00;
+  --color-terracotta: #D2691E;
+  --color-chai-foam: #FFF5E1;
+  --color-masala-chai: #CDAA7D;
+  --color-kulhad-rim: #B22222;
+  --color-charcoal-black: #1C1C1C;
+}
+
+/* Global Styles */
+body {
+  font-family: var(--font-body);
+  background-color: var(--color-chai-foam);
+  color: var(--color-charcoal-black);
+  margin: 0;
+  padding: 0;
+}
